@@ -29,10 +29,7 @@
 
 <p align="center">
 <a href="https://github.com/fiopans1.com">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fiopans1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fiopans1&layout=compact&langs_count=8&theme=algolia"/>
-
-
-  ![LachlanDev github streak](https://github-readme-streak-stats.herokuapp.com/?user=fiopans1&theme=radical&include_all_commits=true&count_private=true)
-  ![LachlanDev github stats](https://github-readme-stats.vercel.app/api?username=fiopans1&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 </a>
 </p>
